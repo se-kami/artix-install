@@ -1,5 +1,5 @@
 # Installation steps
-Replace <VAR> with appropriate value.
+Replace \<VAR\> with appropriate value.
 
 ## Image
 ### Download image
